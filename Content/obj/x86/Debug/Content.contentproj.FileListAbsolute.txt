@@ -1,0 +1,3 @@
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Moskie\Desktop\CatchBabies\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\A_Rosenberg\Desktop\CatchBabies\Content\obj\x86\Debug\ResolveAssemblyReference.cache

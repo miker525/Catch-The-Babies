@@ -1,0 +1,24 @@
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\Content\menu.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\Content\town.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\Content\glove.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\Content\deadbaby.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\Content\baby.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\Content\pause.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\Content\gameover.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\Content\babyScream.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\Content\babygigl.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\Content\audioloop.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\Content\splat.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\Content\menufont.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\catch the babies.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\catch the babies.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\x86\Release\catch the babies.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\x86\Release\catch the babies.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\catch the babies.exe.manifest
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\catch the babies.application
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\x86\Release\catch the babies.exe.manifest
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\x86\Release\catch the babies.application
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\Content\LHI.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Release\Content\credits.xnb

@@ -1,0 +1,72 @@
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\Content\menu.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\Content\town.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\Content\glove.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\Content\deadbaby.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\catch the babies.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\catch the babies.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\x86\Debug\catch the babies.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\x86\Debug\catch the babies.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\Content\baby.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\Content\babyScream.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\Content\babygigl.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\Content\audioloop.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\Content\pause.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\Content\splat.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\Content\credits.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\Content\LHI.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\catch the babies.exe.manifest
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\x86\Debug\catch the babies.application
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\x86\Debug\catch the babies.exe.manifest
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\x86\Debug\catch the babies.application
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\Content\deadbaby.xnb
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\Content\babyScream.xnb
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\Content\menu.xnb
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\Content\splat.xnb
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\Content\credits.xnb
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\Content\LHI.xnb
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\Content\glove.xnb
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\Content\baby.xnb
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\Content\audioloop.xnb
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\Content\babygigl.xnb
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\Content\pause.xnb
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\Content\town.xnb
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\catch the babies.exe.manifest
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\catch the babies.application
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\catch the babies.exe
+C:\Users\Moskie\Desktop\CatchBabies\bin\x86\Debug\catch the babies.pdb
+C:\Users\Moskie\Desktop\CatchBabies\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Moskie\Desktop\CatchBabies\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Moskie\Desktop\CatchBabies\obj\x86\Debug\catch the babies.exe.manifest
+C:\Users\Moskie\Desktop\CatchBabies\obj\x86\Debug\catch the babies.application
+C:\Users\Moskie\Desktop\CatchBabies\obj\x86\Debug\catch the babies.exe
+C:\Users\Moskie\Desktop\CatchBabies\obj\x86\Debug\catch the babies.pdb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\Content\gameover.xnb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\Content\credits.xnb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\Content\LHI.xnb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\Content\baby.xnb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\Content\glove.xnb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\Content\pause.xnb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\Content\babyScream.xnb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\Content\town.xnb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\Content\menu.xnb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\Content\deadbaby.xnb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\Content\audioloop.xnb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\Content\babygigl.xnb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\Content\splat.xnb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\Content\menufont.xnb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\catch the babies.exe.manifest
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\catch the babies.application
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\catch the babies.exe
+C:\Users\A_Rosenberg\Desktop\CatchBabies\bin\x86\Debug\catch the babies.pdb
+C:\Users\A_Rosenberg\Desktop\CatchBabies\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\A_Rosenberg\Desktop\CatchBabies\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\A_Rosenberg\Desktop\CatchBabies\obj\x86\Debug\catch the babies.exe.manifest
+C:\Users\A_Rosenberg\Desktop\CatchBabies\obj\x86\Debug\catch the babies.application
+C:\Users\A_Rosenberg\Desktop\CatchBabies\obj\x86\Debug\catch the babies.exe
+C:\Users\A_Rosenberg\Desktop\CatchBabies\obj\x86\Debug\catch the babies.pdb

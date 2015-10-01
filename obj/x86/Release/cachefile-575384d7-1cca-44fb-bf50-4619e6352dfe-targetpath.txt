@@ -1,0 +1,14 @@
+Content\menu.xnb
+Content\town.xnb
+Content\glove.xnb
+Content\deadbaby.xnb
+Content\baby.xnb
+Content\pause.xnb
+Content\gameover.xnb
+Content\babyScream.xnb
+Content\babygigl.xnb
+Content\audioloop.xnb
+Content\splat.xnb
+Content\menufont.xnb
+Content\LHI.xnb
+Content\credits.xnb

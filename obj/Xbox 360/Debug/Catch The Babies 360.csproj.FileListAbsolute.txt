@@ -1,0 +1,24 @@
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\Content\menu.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\Content\town.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\Content\glove.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\Content\deadbaby.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\Content\baby.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\Content\pause.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\Content\gameover.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\Content\credits.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\Content\babyScream.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\Content\babygigl.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\Content\audioloop.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\Content\splat.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\Content\menufont.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\Content\LHI.xnb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\catch the babies.exe.manifest
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\catch the babies.application
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\catch the babies.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Debug\catch the babies.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\Xbox 360\Debug\catch the babies.exe.manifest
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\Xbox 360\Debug\catch the babies.application
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\Xbox 360\Debug\catch the babies.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\obj\Xbox 360\Debug\catch the babies.pdb

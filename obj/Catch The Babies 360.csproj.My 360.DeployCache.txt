@@ -1,0 +1,41 @@
+69ed401142e04167aa8eb3b1257d7eba
+0
+My 360
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\
+129139524280000000
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\GameThumbnail.png
+2010-03-10T21:44:15.6709058Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\catch the babies.application
+2010-03-25T01:34:52.1724830Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\catch the babies.exe
+2010-03-25T01:34:52.0632828Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\catch the babies.exe.manifest
+2010-03-25T01:34:52.1568829Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\Content\audioloop.xnb
+2010-03-24T18:50:31.0421318Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\Content\baby.xnb
+2010-03-24T18:50:27.6725259Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\Content\babygigl.xnb
+2010-03-24T18:50:30.7145312Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\Content\babyScream.xnb
+2010-03-24T18:50:30.6833311Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\Content\credits.xnb
+2010-03-24T18:50:30.3401305Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\Content\deadbaby.xnb
+2010-03-24T18:50:27.3917254Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\Content\gameover.xnb
+2010-03-25T01:29:51.2635545Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\Content\glove.xnb
+2010-03-24T18:50:27.0797248Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\Content\LHI.xnb
+2010-03-24T18:50:31.8753338Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\Content\menu.xnb
+2010-03-24T18:50:25.9253228Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\Content\menufont.xnb
+2010-03-24T18:50:31.6107332Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\Content\pause.xnb
+2010-03-24T18:50:28.4993273Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\Content\splat.xnb
+2010-03-24T18:50:31.0889319Z
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\catch the babies\catch the babies\bin\Xbox 360\Release\Content\town.xnb
+2010-03-24T18:50:26.7833243Z
